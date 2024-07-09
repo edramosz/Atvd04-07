@@ -12,4 +12,10 @@ Exer4 ex4 = new Exer4();
 //ex4.TrocarValores();
 
 Exer5 ex5 = new Exer5();
-ex5.Modulo();
+//ex5.Modulo();
+
+Exer6 ex6 = new Exer6();
+//ex6.EscolheOperacao();
+
+Exer7 ex7 = new Exer7();
+ex7.RealizarAcao();
