@@ -12,7 +12,7 @@ namespace Revisão2
     {
         private string Raca { get; set; }
         public Cachorro(string nome, int idade, string raca)
-            : base(nome, idade);
+            : base(nome, idade)
         {
             Raca = raca;
         }
